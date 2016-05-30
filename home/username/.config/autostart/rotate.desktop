@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Rotate
+Comment=Settings for rotating the display
+Exec=/opt/rotate/init.sh
+X-GNOME-Autostart-enabled=true
