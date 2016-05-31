@@ -40,8 +40,7 @@ First, find the ID of your touchpad using the following command
 xinput --list
 ```
 
-Then replace the number ```13``` with your ID in ```/opt/rotate/back.sh``` and
-```/opt/rotate/front.sh```.
+Then replace the number ```13``` with your ID in ```/opt/rotate/back.sh``` and ```/opt/rotate/front.sh```.
 
 Next, find the keycodes for the "flip back" and "flip front" actions by using the following
 command.
