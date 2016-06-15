@@ -1,4 +1,4 @@
-# x360 Rotate Sripts
+# x360 Rotate Scripts
 
 Copyright (c) 2016 Chris Harvey
 
